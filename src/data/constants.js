@@ -13,6 +13,8 @@ import contextShoppingImage from '../images/Context-Shopping-App.png';
 import entertainmentMelaImage from '../images/The-Entertainment-Mela.png';
 import freelancerImage from '../images/FREELANCER.png';
 import VikasImage from '../images/Vikas.jpg';
+import quizyfyImage from '../images/quizyfy.png';
+
 
 
 
@@ -231,6 +233,17 @@ export const projects = [
     category: "web app",
     github: "https://github.com/VikasSaxena2204/News-Stream",
     webapp: "https://github.com/VikasSaxena2204/News-Stream",
+  },
+  {
+    id: 12,
+    title: "Quizyfy App",
+    date: "Nov 2024",
+    description: "Quizyfy is an interactive quiz app built with React.js, offering users a fun and participating in quiz experience.",
+    image: quizyfyImage,
+    tags: ["React Js", "JavaScript", "Bootstrap", "CSS", "Chakra-UI"],
+    category: "web app",
+    github: "https://github.com/VikasSaxena2204/Quizyfy",
+    webapp: "https://quizyfy-phi.vercel.app/",
   },
   {
     id: 3,
