@@ -14,6 +14,7 @@ import entertainmentMelaImage from '../images/The-Entertainment-Mela.png';
 import freelancerImage from '../images/FREELANCER.png';
 import VikasImage from '../images/Vikas.jpg';
 import quizyfyImage from '../images/quizyfy.png';
+import logix from '../images/Logix.png';
 
 
 
@@ -193,6 +194,28 @@ export const education = [
 ];
 
 export const projects = [
+   {
+    id: 13,
+    title: "Logix App",
+    date: "Nov 2024",
+    description: "Logix is a responsive and dynamic application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). Designed to showcase robust authentication workflows, Logix features intuitive user registration, login functionality, and a modern dashboard interface.",
+    image: logix,
+    tags: ["React Js", "Node Js", "Express.js", "MongoDB", "JWT", "CSS3", "JavaScript"],
+    category: "web app",
+    github: "https://github.com/VikasSaxena2204/Logix-frontend",
+    webapp: "https://logix-frontend.vercel.app/",
+  },
+   {
+    id: 12,
+    title: "Quizyfy App",
+    date: "Nov 2024",
+    description: "Quizyfy is an interactive quiz app built with React.js, offering users a fun and participating in quiz experience.",
+    image: quizyfyImage,
+    tags: ["React Js", "JavaScript", "Bootstrap", "CSS", "Chakra-UI"],
+    category: "web app",
+    github: "https://github.com/VikasSaxena2204/Quizyfy",
+    webapp: "https://quizyfy-phi.vercel.app/",
+  },
   {
     id: 0,
     title: "Quick-Convo",
@@ -223,17 +246,7 @@ export const projects = [
     github: "https://github.com/VikasSaxena2204/Student-Management-App",
     webapp: "https://student-management-app-iota.vercel.app/",
   },
-  {
-    id: 12,
-    title: "Quizyfy App",
-    date: "Nov 2024",
-    description: "Quizyfy is an interactive quiz app built with React.js, offering users a fun and participating in quiz experience.",
-    image: quizyfyImage,
-    tags: ["React Js", "JavaScript", "Bootstrap", "CSS", "Chakra-UI"],
-    category: "web app",
-    github: "https://github.com/VikasSaxena2204/Quizyfy",
-    webapp: "https://quizyfy-phi.vercel.app/",
-  },
+ 
   {
     id: 2,
     title: "News Stream",
