@@ -138,7 +138,7 @@ export const experiences = [
     skills: [
       "React.js",
       "Bootstrap",
-      "MySql",
+      "MongoDB",
       "JavaScript",
       "Firebase",
       "JavaScript",
