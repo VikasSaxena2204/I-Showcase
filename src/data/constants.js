@@ -24,6 +24,7 @@ export const Bio = {
   roles: [
     "Frontend Developer",
     "Web Developer",
+    "MERN Full Stack Developer",
     "UI/UX Designer",
     "Programmer",
   ],
