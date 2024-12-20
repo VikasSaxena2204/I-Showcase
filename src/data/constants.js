@@ -76,6 +76,11 @@ export const skills = [
         image:
           "https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg"
         },
+      {
+        name: "Python",
+        image:
+          "https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"
+        },
     ],
   },
   {
@@ -129,6 +134,24 @@ export const skills = [
 ];
 
 export const experiences = [
+  {
+    id: 3,
+    img: "https://static.wixstatic.com/media/d6924e_887b9594a6c342feb269894d02dd9486~mv2.png/v1/crop/x_0,y_0,w_1867,h_1826/fill/w_169,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Black%20on%20Transparent.png",
+    role: "Data Science & Machine Learning Intern",
+    company: "Gilbert Research Center",
+    date: "Dec 2024 - Present",
+    desc: "Preprocessed data and supported in-house research publications. Collaborated on AI solutions for public health challenges.",
+    skills: [
+      "python",
+      "Analytical Skills",
+      "Full-Stack Development",
+      "Data Science",
+      "Machine Learning",
+      "Research & Development",
+      "Documentation",
+    ],
+    doc: "",
+  },
   {
     id: 0,
     img: "",
