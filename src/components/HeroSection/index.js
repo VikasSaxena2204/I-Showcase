@@ -35,8 +35,8 @@ const HeroSection = () => {
                                         strings: Bio.roles,
                                         autoStart: true,
                                         loop: true,
-                                        delay: 75, // Customize the typing speed
-                                        cursor: '|' // Customize the cursor appearance
+                                        delay: 75, 
+                                        cursor: '|' 
                                     }}
                                 />
                             </Span>
