@@ -23,10 +23,11 @@ export const Bio = {
   name: "Vikas Saxena",
   roles: [
     "Frontend Developer",
-    "Web Developer",
     "MERN Full Stack Developer",
-    "UI/UX Designer",
+    "Full Stack Web Developer",
     "Programmer",
+    "UI/UX Designer",
+    
   ],
   description:
     "I am a driven and adaptable professional, eager to tackle new challenges. Passionate about continuous learning, I strive for excellence and am committed to delivering impactful results with a proactive mindset.",
