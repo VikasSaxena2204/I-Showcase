@@ -15,8 +15,7 @@ import freelancerImage from '../images/FREELANCER.png';
 import VikasImage from '../images/Vikas_pic1.jpg';
 import quizyfyImage from '../images/quizyfy.png';
 import logix from '../images/Logix.png';
-
-
+import subsImage from '../images/SV-Subscription.png';
 
 
 export const Bio = {
@@ -219,6 +218,17 @@ export const education = [
 ];
 
 export const projects = [
+    {
+    id: 14,
+    title: "Subscription-Vault",
+    date: "Dec 2024",
+    description: "Subscription-Vault is a web application that manage and track your subscriptions effectively. The app provides features like adding subscriptions, viewing a subscription list, and generating a revenue report.",
+    image: subsImage,
+    tags: ["React Js", "Tailwind CSS", "Node Js", "Express Js", "JSON Server", "JSON API", "React Icons"],
+    category: "web app",
+    github: "https://github.com/VikasSaxena2204/Subscription-Vault",
+    webapp: "https://subscription-vault.vercel.app/",
+  },
    {
     id: 13,
     title: "Logix App",
