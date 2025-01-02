@@ -30,13 +30,13 @@ Responsive.
 
 - React.js: The foundation for building an interactive and responsive user interface.
 - HTML5 & CSS3: Fundamental markup and styling, ensuring a modern and semantically rich web structure.
-- JavaScript (ES6+): For creating interactive, engaging, and dynamic user experiences.
+- JavaScript (ES6+): Creating interactive, engaging, and dynamic user experiences.
 - Styled-Components: A CSS-in-JS solution to add scoped and reusable styles, enabling a consistent design.
 - Git & GitHub: Version control for managing project history and collaborations, with GitHub Pages handling seamless deployment.
-- Formspree or EmailJS: For handling contact form submissions directly from the frontend.
+- Formspree or EmailJS: This handles contact form submissions directly from the front end.
 
 ## Contributing
-I welcome suggestions, improvements, and contributions to enhance this portfolio. If you have feedback or would like to collaborate, please create a pull request or reach out to me through the contact form.
+I welcome suggestions, improvements, and contributions to enhance this portfolio. If you have feedback or would like to collaborate, please create a pull request or reach out to me through the contact form in website.
 
 ## License
 This project is licensed under the MIT License, allowing for modification, distribution, and private or commercial use with attribution.
