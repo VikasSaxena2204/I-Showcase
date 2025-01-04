@@ -1,5 +1,5 @@
 
-// Imports Portfolio Images 
+// Imports Images 
 import quickConvoImage from '../images/QUICKCONVO.png';
 import studentManagementImage from '../images/SMS.png';
 import newsStreamImage from '../images/NewsStream.png';
