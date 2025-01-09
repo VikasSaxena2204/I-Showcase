@@ -31,7 +31,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile professional with a strong drive to embrace new challenges and excel in dynamic environments. Fueled by a passion for continuous learning and growth, I am dedicated to delivering meaningful results through a proactive and innovative approach.",
   github: "https://github.com/VikasSaxena2204",
-  resume: "https://drive.google.com/file/d/1ktwZMOUD18ekSnyeKs2WCzWGbiH_3Ucb/view?usp=sharing", 
+  resume: "https://drive.google.com/file/d/1NsUUbPQHWtns5Qstu5XuOzDPwdVOEwb3/view?usp=sharing", 
   linkedin: "https://www.linkedin.com/in/2204-vikas-saxena/",
   twitter: null, 
   insta: null, 
