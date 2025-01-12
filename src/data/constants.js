@@ -16,6 +16,7 @@ import VikasImage from '../images/Vikas_pic1.jpg';
 import quizyfyImage from '../images/quizyfy.png';
 import logix from '../images/Logix.png';
 import subsImage from '../images/SV-Subscription.png';
+import VoiceScript from '../images/VoiceScript.png';
 
 
 export const Bio = {
@@ -218,7 +219,19 @@ export const education = [
 ];
 
 export const projects = [
-    {
+
+  {
+    id: 15,
+    title: "VoiceScript",
+    date: "Dec 2024",
+    description: "VoiceScript is an easy-to-use, web-based Speech-to-Text converter that allows users to speak into their device's microphone and have their speech transcribed into text in real-time.",
+    image: VoiceScript,
+    tags: ["JavaScript", "CSS", "HTML", "Speech-to-Text"],
+    category: "web app",
+    github: "https://github.com/VikasSaxena2204/VoiceScript",
+    webapp: "https://vikassaxena2204.github.io/VoiceScript/",
+  },  
+  {
     id: 14,
     title: "Subscription-Vault",
     date: "Dec 2024",
