@@ -17,7 +17,8 @@ import quizyfyImage from '../images/quizyfy.png';
 import logix from '../images/Logix.png';
 import subsImage from '../images/SV-Subscription.png';
 import VoiceScript from '../images/VoiceScript.png';
-
+import TTB from '../images/TTB-logo.jpg';
+import Gilbert from '../images/gilbert.png';
 
 export const Bio = {
   name: "Vikas Saxena",
@@ -137,7 +138,7 @@ export const skills = [
 export const experiences = [
   {
     id: 4,
-    img: "https://github.com/VikasSaxena2204/I-Showcase/blob/main/src/images/TTB-logo.jpg",
+    image: "TTB",
     role: "Full Stack Developer",
     company: "Top Talent Bridge LLP",
     date: "Jan 2025 - Present",
@@ -154,7 +155,7 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "https://github.com/VikasSaxena2204/I-Showcase/blob/main/src/images/gilbert.png",
+    image: "Gilbert",
     role: "Data Science & Machine Learning Intern",
     company: "Gilbert Research Center",
     date: "Dec 2024 - Present",
