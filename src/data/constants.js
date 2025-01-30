@@ -154,7 +154,7 @@ export const experiences = [
   },
   {
     id: 3,
-    img: "",
+    img: "https://github.com/VikasSaxena2204/I-Showcase/blob/main/src/images/gilbert.png",
     role: "Data Science & Machine Learning Intern",
     company: "Gilbert Research Center",
     date: "Dec 2024 - Present",
