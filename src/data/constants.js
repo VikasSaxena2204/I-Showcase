@@ -137,7 +137,7 @@ export const skills = [
 export const experiences = [
   {
     id: 4,
-    img: "TTB",
+    img: "https://github.com/VikasSaxena2204/I-Showcase/blob/main/src/images/TTB-logo.jpg",
     role: "Full Stack Developer",
     company: "Top Talent Bridge LLP",
     date: "Jan 2025 - Present",
