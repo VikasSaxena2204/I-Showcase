@@ -17,7 +17,6 @@ import quizyfyImage from '../images/quizyfy.png';
 import logix from '../images/Logix.png';
 import subsImage from '../images/SV-Subscription.png';
 import VoiceScript from '../images/VoiceScript.png';
-import TTB from '../images/TTB logo.jpg';
 
 
 export const Bio = {
