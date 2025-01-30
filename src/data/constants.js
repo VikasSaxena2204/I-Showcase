@@ -138,7 +138,7 @@ export const skills = [
 export const experiences = [
   {
     id: 4,
-    image: "TTB",
+    img: " ",
     role: "Full Stack Developer",
     company: "Top Talent Bridge LLP",
     date: "Jan 2025 - Present",
@@ -155,7 +155,7 @@ export const experiences = [
   },
   {
     id: 3,
-    image: "Gilbert",
+    img: " ",
     role: "Data Science & Machine Learning Intern",
     company: "Gilbert Research Center",
     date: "Dec 2024 - Present",
