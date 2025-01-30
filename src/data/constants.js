@@ -136,8 +136,25 @@ export const skills = [
 
 export const experiences = [
   {
+    id: 4,
+    img: "",
+    role: "Full Stack Developer",
+    company: "Top Talent Bridge LLP",
+    date: "Jan 2025 - Present",
+    desc: "Driving end-to-end development of innovative web solutions at Top Talent Bridge LLP. Leveraging expertise in full-stack development, AI, and team management to deliver scalable, user-focused applications.",
+    skills: [
+      "Full-Stack Development",
+      "AI Prompt Engineering",
+      "Website Development",
+      "Content Creation",
+      "Machine Learning",
+      "Team Management",
+    ],
+    doc: "",
+  },
+  {
     id: 3,
-    img: "https://static.wixstatic.com/media/d6924e_887b9594a6c342feb269894d02dd9486~mv2.png/v1/crop/x_0,y_0,w_1867,h_1826/fill/w_169,h_164,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Black%20on%20Transparent.png",
+    img: "",
     role: "Data Science & Machine Learning Intern",
     company: "Gilbert Research Center",
     date: "Dec 2024 - Present",
@@ -159,7 +176,7 @@ export const experiences = [
     role: "Web Developer Intern",
     company: "Bharat Techz",
     date: "Feb 2024 - Apr 2024",
-    desc: "Working on web development projects related to internship program.",
+    desc: "Working on web development projects related to the internship program.",
     skills: [
       "React.js",
       "Bootstrap",
