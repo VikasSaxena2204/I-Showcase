@@ -1,7 +1,7 @@
 # I-Showcase
 
 Hello, I’m Vikas Saxena!
-Welcome to I-Showcase, my portfolio website—this project showcases my journey, skills, and expertise in frontend development and web application design.
+Welcome to I-Showcase, my personal portfolio website—this project showcases my journey, skills, and expertise in frontend development and web application design.
 
 ## Table of Contents
 - [Introduction](#introduction)
