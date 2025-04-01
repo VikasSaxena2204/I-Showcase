@@ -1,7 +1,7 @@
 # I-Showcase
-Hello
+
 Hello, I’m Vikas Saxena!
-Welcome to I-Showcase, my personal portfolio website—this project showcases my journey, skills, and expertise in frontend development and web application design.
+Welcome to I-Showcase, my personal portfolio website—this project showcases my journey, skills, and expertise in front-end development and web application design.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,7 @@ Welcome to I-Showcase, my personal portfolio website—this project showcases my
 
 ## Introduction
 
-I-showcase is a single-page application built with React.js, providing a comprehensive overview of my skills, experience, and achievements as a front-end developer. It is a central hub for potential collaborators, employers, and clients to view my work, explore my skills, and get in touch.
+I-showcase is a single-page application built with React.js. It provides a comprehensive overview of my skills, experience, and achievements as a front-end developer. It is a central hub for potential collaborators, employers, and clients to view my work, explore my skills, and get in touch.
 
 ## Features
 
