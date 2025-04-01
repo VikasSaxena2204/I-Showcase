@@ -141,7 +141,7 @@ export const experiences = [
     img: " ",
     role: "Full Stack Developer",
     company: "Top Talent Bridge LLP",
-    date: "Jan 2025 - March 2025",
+    date: "Jan 2025 - Present",
     desc: "Driving end-to-end development of innovative web solutions at Top Talent Bridge LLP. Leveraging expertise in full-stack development, AI, and team management to deliver scalable, user-focused applications.",
     skills: [
       "Full-Stack Development",
