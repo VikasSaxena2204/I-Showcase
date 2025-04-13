@@ -33,7 +33,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile professional with a strong drive to embrace new challenges and excel in dynamic environments. Fueled by a passion for continuous learning and growth, I am dedicated to delivering meaningful results through a proactive and innovative approach.",
   github: "https://github.com/VikasSaxena2204",
-  resume: "https://drive.google.com/file/d/1h5nAUk_k9zL2jZQXBBHb-51jkJ00rlw2/view?usp=sharing", 
+  resume: "https://drive.google.com/file/d/1KjR3xFl08eehoVR-_DhCjNlxMGkaRm2m/view?usp=sharing", 
   linkedin: "https://www.linkedin.com/in/2204-vikas-saxena/",
   twitter: null, 
   insta: null, 
@@ -139,7 +139,7 @@ export const experiences = [
   {
     id: 4,
     img: " ",
-    role: "Full Stack Developer",
+    role: "Full Stack Web Developer",
     company: "Top Talent Bridge LLP",
     date: "Jan 2025 - Present",
     desc: "Driving end-to-end development of innovative web solutions at Top Talent Bridge LLP. Leveraging expertise in full-stack development, AI, and team management to deliver scalable, user-focused applications.",
