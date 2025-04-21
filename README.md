@@ -22,7 +22,7 @@ I-showcase is a single-page application built with React.js. It provides a compr
 - Projects: A dynamic gallery showcasing my projects with brief descriptions, technology stacks, screenshots, and direct links to demos or GitHub repositories.
 - Skills: A visually organized list of my technical proficiencies, including frameworks, libraries, tools, and development environments.
 - Resume: A link to download my latest resume, providing a detailed overview of my professional experience, education, and skill set.
-- Contact: An integrated form that allows visitors to reach out to me directly with inquiries, collaboration proposals, or feedback.
+- Contact: An integrated form that allows visitors to contact me directly with inquiries, collaboration proposals, or feedback.
 Responsive.
 - Design: Fully optimized for mobile, tablet, and desktop view, providing an accessible experience across all devices.
 
