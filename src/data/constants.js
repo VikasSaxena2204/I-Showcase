@@ -158,7 +158,7 @@ export const experiences = [
     img: " ",
     role: "Data Science & Machine Learning Intern",
     company: "Gilbert Research Center",
-    date: "Dec 2024 - Present",
+    date: "Dec 2024 - May 2025",
     desc: "Preprocessed data and supported in-house research publications. Collaborated on AI solutions for public health challenges.",
     skills: [
       "python",
