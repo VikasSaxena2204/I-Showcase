@@ -12,7 +12,7 @@ import cabBookingImage from '../images/Cab-Web.png';
 import contextShoppingImage from '../images/Context-Shopping-App.png';
 import entertainmentMelaImage from '../images/The-Entertainment-Mela.png';
 import freelancerImage from '../images/FREELANCER.png';
-import VikasImage from '../images/ProfilePic.png';
+import VikasImage from '../images/Profilepic.png';
 import quizyfyImage from '../images/quizyfy.png';
 import logix from '../images/Logix.png';
 import subsImage from '../images/SV-Subscription.png';
