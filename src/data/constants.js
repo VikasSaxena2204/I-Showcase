@@ -20,8 +20,6 @@ import VoiceScript from '../images/VoiceScript.png';
 import TTB from '../images/TTB-logo.jpg';
 import Gilbert from '../images/gilbert.png';
 
-import VikasImage from "../images/ProfilePic.png";
-
 export const Bio = {
   name: "Vikas Saxena",
   roles: [
