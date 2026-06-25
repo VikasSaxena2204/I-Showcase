@@ -12,7 +12,7 @@ import cabBookingImage from '../images/Cab-Web.png';
 import contextShoppingImage from '../images/Context-Shopping-App.png';
 import entertainmentMelaImage from '../images/The-Entertainment-Mela.png';
 import freelancerImage from '../images/FREELANCER.png';
-import VikasImage from '../images/Vikas_pic1.jpg';
+import VikasImage from '../images/ProfilePic.png';
 import quizyfyImage from '../images/quizyfy.png';
 import logix from '../images/Logix.png';
 import subsImage from '../images/SV-Subscription.png';
@@ -24,16 +24,16 @@ export const Bio = {
   name: "Vikas Saxena",
   roles: [
     "Frontend Developer",
-    "MERN Full Stack Developer",
-    "Full Stack Web Developer",
-    "Programmer",
-    "UI/UX Designer",
-    
+    "Web Developer",
+    "Software Engineer",
+    "Technical Support Engineer",
+    "Application Support Engineer",
+    "Web Operations Professional"
   ],
-  description:
-    "I am a motivated and versatile professional with a strong drive to embrace new challenges and excel in dynamic environments. Fueled by a passion for continuous learning and growth, I am dedicated to delivering meaningful results through a proactive and innovative approach.",
+ description:
+  "Computer Science Engineering graduate with experience in React.js, JavaScript, MERN Stack, web operations, technical support, and application troubleshooting. Passionate about building responsive web applications, solving technical challenges, and delivering reliable user-focused solutions.",
   github: "https://github.com/VikasSaxena2204",
-  resume: "https://drive.google.com/file/d/1KjR3xFl08eehoVR-_DhCjNlxMGkaRm2m/view?usp=sharing", 
+  resume: "https://drive.google.com/file/d/1-TuI52YXVennrrtpMrjj1PbiPOXrBYg-/view?usp=sharing", 
   linkedin: "https://www.linkedin.com/in/2204-vikas-saxena/",
   twitter: null, 
   insta: null, 
@@ -138,102 +138,113 @@ export const skills = [
 export const experiences = [
   {
     id: 4,
-    img: " ",
-    role: "Full Stack Web Developer",
-    company: "Top Talent Bridge LLP",
-    date: "Jan 2025 - Present",
-    desc: "Driving end-to-end development of innovative web solutions at Top Talent Bridge LLP. Leveraging expertise in full-stack development, AI, and team management to deliver scalable, user-focused applications.",
-    skills: [
-      "Full-Stack Development",
-      "AI Prompt Engineering",
-      "Website Development",
-      "Content Creation",
-      "Machine Learning",
-      "Team Management",
-    ],
+img: " ",
+role: "Web Operations Associate",
+company: "Top Talent Bridge LLP",
+date: "Mar 2025 - Present",
+desc: "Managing website updates, frontend enhancements, content publishing, landing page maintenance, and technical troubleshooting across company and client websites. Working with WordPress, HTML, CSS, JavaScript, and AI-enabled tools to improve workflows, user experience, and operational efficiency while collaborating with cross-functional teams.",
+skills: [
+"Web Operations",
+"WordPress",
+"JavaScript",
+"HTML",
+"CSS",
+"Technical Support",
+"Troubleshooting",
+"Documentation",
+"Responsive Web Design",
+"Cross-Functional Collaboration"
+],
     doc: "",
   },
   {
     id: 3,
-    img: " ",
-    role: "Data Science & Machine Learning Intern",
-    company: "Gilbert Research Center",
-    date: "Dec 2024 - May 2025",
-    desc: "Preprocessed data and supported in-house research publications. Collaborated on AI solutions for public health challenges.",
-    skills: [
-      "python",
-      "Analytical Skills",
-      "Full-Stack Development",
-      "Data Science",
-      "Machine Learning",
-      "Research & Development",
-      "Documentation",
-    ],
+img: " ",
+role: "Data Science & Machine Learning Intern",
+company: "Gilbert Research Center",
+date: "Dec 2024 - May 2025",
+desc: "Completed structured training in Data Science, Machine Learning, Statistics, and Probability through guided learning modules and practical exercises. Gained hands-on exposure to Python, data preprocessing, basic data analysis, and introductory machine learning concepts while exploring AI workflows and Large Language Models (LLMs).",
+skills: [
+"Python",
+"Data Science",
+"Machine Learning",
+"Statistics",
+"Probability",
+"Data Analysis",
+"Artificial Intelligence",
+"Research"
+],
+
     doc: "",
   },
   {
-    id: 0,
-    img: "",
-    role: "Web Developer Intern",
-    company: "Bharat Techz",
-    date: "Feb 2024 - Apr 2024",
-    desc: "Working on web development projects related to the internship program.",
-    skills: [
-      "React.js",
-      "Bootstrap",
-      "MongoDB",
-      "JavaScript",
-      "Firebase",
-      "JavaScript",
-      " Next Js",
-    ],
+   id: 0,
+img: "",
+role: "Web Development Intern",
+company: "BharatTech",
+date: "Feb 2024 - Apr 2024",
+desc: "Developed responsive web pages and user interface components using React.js, JavaScript, HTML5, and CSS3. Worked on frontend features, responsive layouts, testing, debugging, and cross-browser compatibility while collaborating with team members using Git and GitHub.",
+skills: [
+"React.js",
+"JavaScript",
+"HTML5",
+"CSS3",
+"Frontend Development",
+"Responsive Web Design",
+"Git",
+"GitHub",
+"Debugging"
+],
     doc: "",
   },
   {
     id: 1,
-    img: "",
-    role: "Frontend Developer Intern",
-    company: "Supero Software Pvt. Ltd.",
-    date: "July 2022 - March 2023",
-    desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
-    skills: [
-      "JavaScript",
-      "Bootstrap",
-      "HTML",
-      "CSS",
-      "React.Js",
-    ],
+img: "",
+role: "Frontend Developer Trainee",
+company: "Supero Software Pvt. Ltd.",
+date: "Jul 2022 - Mar 2023",
+desc: "Developed reusable user interface components using React.js, JavaScript, HTML, and CSS. Converted design mockups into responsive web pages, assisted in testing and debugging frontend issues, and collaborated with senior developers on feature enhancements and UI improvements.",
+skills: [
+"React.js",
+"JavaScript",
+"HTML",
+"CSS",
+"Frontend Development",
+"Responsive Web Design",
+"UI Development",
+"Debugging"
+],
   },
 ];
 
 export const education = [
-  {
-    id: 0,
-    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-VlULm9bVVrbWkVEEseM6FCJxB5AqAUiWug&s",
-    school: "Aravali College of Engineering & Management, Faridabad",
-    date: "Aug 2018 - Sep 2022",
-    grade: "8.76 CGPA",
-    desc: "I have completed my Bachelor's degree in Computer Science and Engineering from Aravali College of Engineering & Management, Faridabad. I have completed my graduation with CGPA of 8.76. I have took courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
-    degree: "Bachelor of Technology - B.Tech, Computer Science and Engineering",
-  },
-  {
-    id: 1,
-    img: "https://bseh.org.in/logo.png",
-    school: "K.D. Senior Secondary School, Faridabad",
-    date: "Apr 2016 - Apr 2018",
-    grade: "86.8%",
-    desc: "I completed my class 12 high school education at K.D. Senior Secondary School, Faridabad, where I studied Science with Computers.",
-    degree: "HBSE(XII), Science",
-  },
-  {
-    id: 2,
-    img: "https://bseh.org.in/logo.png",
-    school: "Saint Micah Chritian High School, Faridabad",
-    date: "Apr 2015 - Apr 2016",
-    grade: "90.4%",
-    desc: "I completed my class 10 education at Saint Micah Chritian High School, Faridabad.",
-    degree: "HBSE(X), General",
-  },
+{
+id: 0,
+img: "https://jcboseust.ac.in/assets/uploads/media/be5cb2dc7f8445c5b3dc7d814be25bc9.png",
+school: "J.C. Bose University of Science and Technology, YMCA",
+date: "Jul 2018 - May 2022",
+grade: "CGPA: 8.76",
+desc: "Completed a Bachelor's degree in Computer Science & Engineering with a strong foundation in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Computer Networks, and Software Development.",
+degree: "Bachelor of Technology (B.Tech), Computer Science & Engineering",
+},
+{
+id: 1,
+img: "https://bseh.org.in/logo.png",
+school: "K.D. Senior Secondary School, Faridabad",
+date: "2016 - 2018",
+grade: "86.8%",
+desc: "Completed Senior Secondary Education with Science and Computer Science, building a foundation in mathematics, analytical thinking, and technology.",
+degree: "Class XII (HBSE) - Science",
+},
+{
+id: 2,
+img: "https://bseh.org.in/logo.png",
+school: "Saint Micah Christian High School, Faridabad",
+date: "2015 - 2016",
+grade: "90.4%",
+desc: "Completed Secondary Education with strong academic performance and active participation in school activities.",
+degree: "Class X (HBSE)",
+},
 ];
 
 export const projects = [
