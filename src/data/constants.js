@@ -20,6 +20,8 @@ import VoiceScript from '../images/VoiceScript.png';
 import TTB from '../images/TTB-logo.jpg';
 import Gilbert from '../images/gilbert.png';
 
+import VikasImage from "../images/ProfilePic.png";
+
 export const Bio = {
   name: "Vikas Saxena",
   roles: [
@@ -28,8 +30,9 @@ export const Bio = {
     "Software Engineer",
     "Technical Support Engineer",
     "Application Support Engineer",
-    "Web Operations Professional"
+    "Web Operations Professional",
   ],
+  image: VikasImage,
  description:
   "Computer Science Engineering graduate with experience in React.js, JavaScript, MERN Stack, web operations, technical support, and application troubleshooting. Passionate about building responsive web applications, solving technical challenges, and delivering reliable user-focused solutions.",
   github: "https://github.com/VikasSaxena2204",
@@ -138,7 +141,7 @@ export const skills = [
 export const experiences = [
   {
     id: 4,
-img: " ",
+img: TTB,
 role: "Web Operations Associate",
 company: "Top Talent Bridge LLP",
 date: "Mar 2025 - Present",
@@ -159,7 +162,7 @@ skills: [
   },
   {
     id: 3,
-img: " ",
+img: Gilbert,
 role: "Data Science & Machine Learning Intern",
 company: "Gilbert Research Center",
 date: "Dec 2024 - May 2025",
