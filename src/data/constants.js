@@ -12,7 +12,7 @@ import cabBookingImage from '../images/Cab-Web.png';
 import contextShoppingImage from '../images/Context-Shopping-App.png';
 import entertainmentMelaImage from '../images/The-Entertainment-Mela.png';
 import freelancerImage from '../images/FREELANCER.png';
-import VikasImage from '../images/Profilepic.png';
+import VikasImage from '../images/profilepic.png';
 import quizyfyImage from '../images/quizyfy.png';
 import logix from '../images/Logix.png';
 import subsImage from '../images/SV-Subscription.png';
@@ -30,7 +30,7 @@ export const Bio = {
     "Application Support Engineer",
     "Web Operations Professional",
   ],
-  image: VikasImage,
+  img: VikasImage,
  description:
   "Computer Science Engineering graduate with experience in React.js, JavaScript, MERN Stack, web operations, technical support, and application troubleshooting. Passionate about building responsive web applications, solving technical challenges, and delivering reliable user-focused solutions.",
   github: "https://github.com/VikasSaxena2204",
