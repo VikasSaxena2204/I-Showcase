@@ -30,7 +30,7 @@ export const Bio = {
     "Application Support Engineer",
     "Web Operations Professional",
   ],
-  img: VikasImage,
+  image: VikasImage,
  description:
   "Computer Science Engineering graduate with experience in React.js, JavaScript, MERN Stack, web operations, technical support, and application troubleshooting. Passionate about building responsive web applications, solving technical challenges, and delivering reliable user-focused solutions.",
   github: "https://github.com/VikasSaxena2204",
