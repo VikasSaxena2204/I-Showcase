@@ -141,8 +141,8 @@ export const experiences = [
     id: 4,
 img: TTB,
 role: "Web Operations Associate",
-company: "Top Talent Bridge LLP",
-date: "Mar 2025 - Present",
+company: "Top Talent Bridge",
+date: "Jan 2025 - Present",
 desc: "Managing website updates, frontend enhancements, content publishing, landing page maintenance, and technical troubleshooting across company and client websites. Working with WordPress, HTML, CSS, JavaScript, and AI-enabled tools to improve workflows, user experience, and operational efficiency while collaborating with cross-functional teams.",
 skills: [
 "Web Operations",
@@ -162,7 +162,7 @@ skills: [
     id: 3,
 img: Gilbert,
 role: "Data Science & Machine Learning Intern",
-company: "Gilbert Research Center",
+company: "Gilbert Research Center (Remote)",
 date: "Dec 2024 - May 2025",
 desc: "Completed structured training in Data Science, Machine Learning, Statistics, and Probability through guided learning modules and practical exercises. Gained hands-on exposure to Python, data preprocessing, basic data analysis, and introductory machine learning concepts while exploring AI workflows and Large Language Models (LLMs).",
 skills: [
@@ -181,9 +181,9 @@ skills: [
   {
    id: 0,
 img: "",
-role: "Web Development Intern",
-company: "BharatTech",
-date: "Feb 2024 - Apr 2024",
+role: "Web Developer",
+company: "BharatTech Intenz",
+date: "Feb 2024 - Jan 2025",
 desc: "Developed responsive web pages and user interface components using React.js, JavaScript, HTML5, and CSS3. Worked on frontend features, responsive layouts, testing, debugging, and cross-browser compatibility while collaborating with team members using Git and GitHub.",
 skills: [
 "React.js",
