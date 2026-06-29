@@ -34,7 +34,7 @@ export const Bio = {
  description:
   "Computer Science Engineering graduate with experience in React.js, JavaScript, MERN Stack, web operations, technical support, and application troubleshooting. Passionate about building responsive web applications, solving technical challenges, and delivering reliable user-focused solutions.",
   github: "https://github.com/VikasSaxena2204",
-  resume: "https://drive.google.com/file/d/1-TuI52YXVennrrtpMrjj1PbiPOXrBYg-/view?usp=sharing", 
+  resume: "https://drive.google.com/file/d/18k_x1ukb7y3LesH0SZ3M14RaEQL91OOW/view?usp=sharing", 
   linkedin: "https://www.linkedin.com/in/2204-vikas-saxena/",
   twitter: null, 
   insta: null, 
